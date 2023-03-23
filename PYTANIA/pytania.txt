@@ -1,0 +1,13 @@
+W jaki sposób mamy zapamiętywać klientów (np. poprzez email (jest unikalny), numer telefonu czy np. oba)?
+
+Czy ma być podział wśród pracowników do jakiej części bazy (np. raportów) mogą mieć dostęp (to by oznaczało, że w bazie musi się też znaleźć jakaś tabela z pracownikami) (np. manager może mieć dostęp do miesięcznego podsumowania całej restauracji, a pracownik tylko do swojego)?
+
+Czy dania które zostają usunięte z menu mają być wraz z ich cenami archiwizowane tak, żeby można je było znowu włączyć do menu?
+
+Czy podczas zapamiętywania zamówień klienta mamy zapisać tylko łączną cenę wszystkich kupionych pozycji, czy całą listę?
+
+Czy mamy zrobić raport pokazujący jak często dane danie było zamawiane (przez co będziemy musieli to zliczać)?
+
+czy klienci indywidualni i firmy mają być osobno uwzględniani w różnych raportach?
+
+Czy żeby zarezerwować stolik trzeba wcześniej dokonać WK zamówień na miejscu?

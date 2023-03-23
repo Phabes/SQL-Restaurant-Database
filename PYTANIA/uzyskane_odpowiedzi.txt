@@ -1,0 +1,14 @@
+Pracowników na kategorie podzielić
+Jakieś słowniki menu trzeba mieć
+Jedno danie ciągle może być w menu
+Stoliki można dzielić i łączyć, trzeba się zastanowić czy pamiętać te stoliki
+Dania z owocami morza się nie zmieniają co 2 tygodnie
+Nie zarejestrowanym klientom nie nalicza się się ilości zamówień dokonanych (WK się nie zwiększa), klienci mogą się identyfikować przy zamówieniach na miejscu
+Istnieje możliwość rezerwacji niepełnego stolika, ale wtedy nie udostępniamy tych wolnych miejsc do rezerwacji
+Należy ograniczenie narzucić na ilość dostępnych stolików w danym dniu (nie wszystkie stoliki można rezerwować)
+Firmy indentyfikować po np NIPie, a indywidualnych klientów np po telefonie
+Trzeba przechowywać ile danego produktu posiadamy na stanie
+Składników nie bierzemy pod uwagę, limitujemy jedynie pozycje w menu
+Jeśli klient chce zarezerwować stolik dla 2 osób i ma dostępne stoły 2 i 4 osobowe to musi dostać jakiś stolik 2-osobowy
+Nie świadczymy dostaw (jedynie na wynos i na miejscu)
+Przyjmujemy zamówienia ale musimy mieć na uwadze jakie jest menu danego dnia (np rezerwacje tylko na następny dzień to trzeba uwzględnić to że następuje zmiana menu co dwa tygodnie)
